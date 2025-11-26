@@ -1,9 +1,9 @@
 # 🖥️ Inventario de Equipos Informáticos para Taller/Laboratorio
 
-Esta es una aplicación web simple para **registrar, visualizar, editar y eliminar** equipos informáticos del taller/laboratorio. Permite subir una imagen por equipo, almacenar los datos en un archivo `log.json` y visualizarlos en forma de tabla.
+Aplicación web simple para **registrar, visualizar, editar y eliminar** equipos informáticos del taller/laboratorio. Permite subir una imagen por equipo, almacenar los datos en un archivo `log.json` y visualizarlos en forma de tabla.
 
-> Proyecto realizado por 1º ASIR  
-> Asignatura: Fundamentos de Hardware, ISO – Instituto Prometeo  
+> Proyecto realizado por IFCT0109 - Network Formación
+> Inventario laboratorio / taller
 > Año: 2025
 
 ---
