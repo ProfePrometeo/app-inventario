@@ -3,8 +3,6 @@
 Aplicación web simple para **registrar, visualizar, editar y eliminar** equipos informáticos del taller/laboratorio. Permite subir una imagen por equipo, almacenar los datos en un archivo `log.json` y visualizarlos en forma de tabla.
 
 > Proyecto realizado por IFCT0109 - Network Formación
-> Inventario laboratorio / taller
-> Año: 2025
 
 ---
 
