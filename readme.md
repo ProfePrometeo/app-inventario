@@ -29,7 +29,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 1. **Clona o descarga el repositorio** en tu equipo:
 
    ```bash
-   git clone https://github.com/ProfePrometeo/inventario-app.git
+   git clone https://github.com/ProfePrometeo/app-inventario.git
 
 2. **Instala las dependencias necesarias** en tu equipo:
 
